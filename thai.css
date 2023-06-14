@@ -5,28 +5,27 @@
     border: 1px;
 }
 .primeira {
-    background-color: rgb(135, 135, 163);
+    background-color: rgb(177, 177, 177);
     border: 1px solid rgb(86, 86, 179);
     padding: 10px;
     margin: 3px
 }
 .segunda {
-    background-color: rgb(135, 135, 163);
-    border: 1px solid blue;
+    background-color: rgb(177, 177, 177);
+    border: 1px solid rgb(86, 86, 179);
     padding: 10px;
     margin: 3px
 }
 
 .terceira {
-    background-color: rgb(135, 135, 163);
-    border: 1px solid blue;
+    background-color: rgb(177, 177, 177);
+    border: 1px solid rgb(86, 86, 179);
     padding: 10px;
     margin: 3px
 }
 .ultima {
-    background-color: rgb(135, 135, 163);
-    padding-top: 1px;
-    border: 1px solid blue;
+    background-color: rgb(177, 177, 177);
+    border: 1px solid rgb(86, 86, 179);
     padding: 10px;
     margin: 3px
     
